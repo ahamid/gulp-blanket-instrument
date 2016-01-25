@@ -1,0 +1,24 @@
+{
+  "name": "gulp-blanket-instrument",
+  "version": "1.0.0",
+  "description": "Gulp transform to statically Blanket-instrument your source files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahamid/gulp-blanket-instrument.git"
+  },
+  "author": "Aaron Hamid <aaron.hamid@gmail.com> (https://github.com/ahamid)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ahamid/gulp-blanket-instrument/issues"
+  },
+  "homepage": "https://github.com/ahamid/gulp-blanket-instrument#readme",
+  "dependencies": {
+    "blanket": "^1.2.1",
+    "gulp-util": "^3.0.7",
+    "through2": "^2.0.0"
+  }
+}
